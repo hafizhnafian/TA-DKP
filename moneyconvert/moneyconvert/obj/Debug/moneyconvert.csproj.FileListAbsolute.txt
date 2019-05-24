@@ -1,0 +1,10 @@
+D:\DKP\TA\moneyconvert\moneyconvert\obj\Debug\moneyconvert.csprojAssemblyReference.cache
+D:\DKP\TA\moneyconvert\moneyconvert\obj\Debug\moneyconvert.Form1.resources
+D:\DKP\TA\moneyconvert\moneyconvert\obj\Debug\moneyconvert.Properties.Resources.resources
+D:\DKP\TA\moneyconvert\moneyconvert\obj\Debug\moneyconvert.csproj.GenerateResource.cache
+D:\DKP\TA\moneyconvert\moneyconvert\obj\Debug\moneyconvert.csproj.CoreCompileInputs.cache
+D:\DKP\TA\moneyconvert\moneyconvert\bin\Debug\moneyconvert.exe.config
+D:\DKP\TA\moneyconvert\moneyconvert\bin\Debug\moneyconvert.exe
+D:\DKP\TA\moneyconvert\moneyconvert\bin\Debug\moneyconvert.pdb
+D:\DKP\TA\moneyconvert\moneyconvert\obj\Debug\moneyconvert.exe
+D:\DKP\TA\moneyconvert\moneyconvert\obj\Debug\moneyconvert.pdb
